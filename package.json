@@ -1,0 +1,25 @@
+{
+  "name": "formdataconverter",
+  "version": "0.1.0",
+  "description": "An express middleware for parsing formdata data",
+  "main": "formDataConverter.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gangganghao6/formDataConverter.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "formdata",
+    "file"
+  ],
+  "author": "dongyuyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gangganghao6/formDataConverter/issues"
+  },
+  "homepage": "https://github.com/gangganghao6/formDataConverter#readme"
+}
